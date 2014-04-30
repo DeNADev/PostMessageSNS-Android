@@ -1,0 +1,1 @@
+Compiler complains if it can't find a folder called 'res', just want to keep this folder in git.
